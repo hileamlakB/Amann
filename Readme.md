@@ -29,8 +29,8 @@ I would appreciate any kind of help. This project is at its earliest stage, and 
 
 Searching for multiple amharic
 
-- [ ] Rasterization and generating more images from fonts
-
+* [ ] Rasterization and generating more images from fonts
+* [ ] Create a dataset of different fontsizes and different image sizes (to be trained with adaptive pooling)
 * [ ] Clearning up current data set
 * [ ] Do a better train test split making sure all classes are represented in both
 * [ ] fine tune until getting >95% accuracy
@@ -39,6 +39,7 @@ Searching for multiple amharic
 * [ ] Support for uncommon characters
 * [ ] Support for customized training
 * [ ] Building pipline for training model from user data
+
 
 If you think you can help with any of these. Ping me, I would love to talk to you. I will soon be publishing a contribution policy to make sure we utilize man power properly.
 
