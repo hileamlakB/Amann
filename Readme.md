@@ -32,6 +32,7 @@ Searching for multiple amharic
 * [ ] Rasterization and generating more images from fonts
 * [ ] Create a dataset of different fontsizes and different image sizes (to be trained with adaptive pooling)
 * [ ] Clearning up current data set
+* [ ] Create a confusion matrix and other accuracy tests
 * [ ] Do a better train test split making sure all classes are represented in both
 * [ ] fine tune until getting >95% accuracy
 * [ ] Build a pipeline to convert images to text
