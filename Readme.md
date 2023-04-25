@@ -41,7 +41,7 @@ Searching for multiple amharic
 * [ ] Support for customized training
 * [ ] Building pipline for training model from user data
 * [ ] RNN for next word predictions
-
+* [ ] Use transformers, Latent models and other algorithms
 
 If you think you can help with any of these. Ping me, I would love to talk to you. I will soon be publishing a contribution policy to make sure we utilize man power properly.
 
